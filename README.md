@@ -2,6 +2,7 @@
 
 # Second-Generation AI-Assisted PBPK Model for Nanoparticles 
 ### A second-generation artificial intelligence-assisted physiologically based pharmacokinetic model for predicting nanoparticle tumor delivery in mice
+The manuscript describing this model is under review. Please refer to the manuscript for details once it is published.
 
 **Last Updated:** November 24, 2025  
 
