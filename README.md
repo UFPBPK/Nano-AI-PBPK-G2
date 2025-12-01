@@ -15,18 +15,16 @@ The manuscript describing this model is under review. Please refer to the manusc
 ## 📂 Repository Structure
 
 ### **PBPK Modeling (PBPK)**
-- EvaDat_1.csv: Observed nanoparticle concentration–time data.
+- Experiment.csv: Observed nanoparticle concentration–time data for the external validation.
 - NanoPBPK.R: Main PBPK model code.
 - Model calibration.R: Parameter estimation workflow using observed data.
 - Data_PBPK parameters.csv: Final calibrated PBPK parameters.
+- Linear regression: the code file to generate results in Figure 2.
 ---
 ### **Machine Learning (ML_AI)**
-- Data-ML development.csv: Dataset used to train ML models for PBPK parameter prediction.
 - Six individual ML parameter prediction code, such as Final- 2nd-AI_QSAR_KTRES50.ipynb.
 ---
 ### **AI-assisted PBPK (AI-PBPK)**
-- data_total.csv: ML-predicted tumor-related parameters.
-- EvaDat_1.csv: Observed nanoparticle concentration–time data.
 - AI-assisted PBPK.R: End-to-end script for prediction and comparison with observed values.
 ---
 
