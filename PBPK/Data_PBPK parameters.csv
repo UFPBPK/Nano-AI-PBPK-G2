@@ -1,0 +1,155 @@
+﻿ID,Data_source,Type,MAT,NM.ID,Shape,Charge,Size,Zeta,Tumor_Model,Cancer type,TSz,TW,Dose,BW,Reference
+379,1,Organic,Liposome,Mag-pH-DS,Spherical,Neutral,181.4,-5.7,Xenograft Heterotopic,Cervix,1,1.2,4,21,"Wang et al. ,2016"
+380,2,Organic,Polymeric,PTX-CC-CIT,Spherical,Negative,NA,-19.2,Xenograft Heterotopic,Breast,0.4,0.48,5.285283,20,"Sun,2019"
+381,2,Organic,Polymeric,PTX-C-CIT,Spherical,Negative,NA,-20.3,Xenograft Heterotopic,Breast,0.4,0.48,5.173683,20,"Sun,2019"
+382,2,Organic,Polymeric,PTX-S-CIT,Spherical,Negative,NA,-21.2,Xenograft Heterotopic,Breast,0.4,0.48,5.359683,20,"Sun,2019"
+383,2,Organic,Polymeric,PTX-Se-CIT,Spherical,Negative,NA,-22.2,Xenograft Heterotopic,Breast,0.4,0.48,5.796411,20,"Sun,2019"
+384,2,Organic,Polymeric,PTX-SS-CIT,Spherical,Negative,NA,-21.5,Xenograft Heterotopic,Breast,0.4,0.48,5.657283,20,"Sun,2019"
+385,2,Organic,Polymeric,PTX-SeSe-CIT,Spherical,Negative,NA,-18.9,Xenograft Heterotopic,Breast,0.4,0.48,6.530739,20,"Sun,2019"
+386,2,Inorganic,INM others,CREKA-targeted Fe@MSN ,Spherical,Negative,100,-32.5,Xenograft Orthotopic,Brain,0.048668,0.0584016,5,25,"Turan,2021"
+387,2,Organic,Polymeric,iRGD-PEG-PCCL-B,Spherical,Negative,24.97,-15.5,Xenograft Heterotopic,Lung,0.175,0.21,20,20,"Chen,2019"
+388,2,Organic,Polymeric,TKHNCEP-DOX,Spherical,Negative,90,-13.9,Xenograft Orthotopic,Breast,0.05,0.06,10.05,20,"Sun,2019"
+389,2,Organic,Polymeric,HCENP-DOX,Spherical,Negative,90,-13.9,Xenograft Orthotopic,Breast,0.05,0.06,10.05,20,"Sun,2019"
+390,2,Organic,Polymeric,p([177Lu]Lu-DPAEA-co-OEGA-co-[Gd3+]VDMD,Others,NA,13,NA,Xenograft Heterotopic,Colon,0.175,0.21,0.75,20,"Goos,2020"
+391,2,Inorganic,INM others,MoS2â€“SSâ€“HAâ€“CPT,Plate,Negative,170,-43,Xenograft Heterotopic,Lung,0.2,0.24,1.2,22,"Liu,2019"
+392,2,Organic,Polymeric,D-SPB30,Spherical,Negative,32,-12,Allograft Heterotopic,Liver,0.5,0.6,4.004232804,19,"Qian,2019"
+393,2,Organic,Polymeric,D-SPB50,Spherical,Negative,53,-16,Allograft Heterotopic,Liver,0.5,0.6,4.004201681,19,"Qian,2019"
+394,2,Organic,Polymeric,D-SPB150,Spherical,Negative,148,-23,Allograft Heterotopic,Liver,0.5,0.6,4.004162331,19,"Qian,2019"
+395,2,Organic,Polymeric,PEG-b-PMBSH MB+FUS,Spherical,NA,1200,NA,Allograft Orthotopic,Glioma,0.0383,0.04596,0.035,27.5,"Fan,2019"
+396,2,Organic,Polymeric,PEG-b-PMBSH MB,Spherical,NA,1200,NA,Allograft Orthotopic,Glioma,0.0383,0.04596,0.035,27.5,"Fan,2019"
+397,2,Organic,Polymeric,PEG-b-PMBSH+FUS,Spherical,Negative,295.2,-42.9,Allograft Orthotopic,Glioma,0.0383,0.04596,0.035,27.5,"Fan,2019"
+398,2,Organic,Polymeric,PEG-b-PMBSH,Spherical,Negative,295.2,-42.9,Allograft Orthotopic,Glioma,0.0383,0.04596,0.035,27.5,"Fan,2019"
+399,2,Inorganic,INM others,CuET/DIR,Spherical,Negative,123,-20.8,Xenograft Orthotopic,Breast,0.15,0.18,0.432,20,"Ren,2020"
+400,2,Inorganic,INM others,Anti-MUC1-C/NP,Spherical,Neutral,6.3,-6.9,Xenograft Orthotopic,Breast,0.1715,0.2058,5,20,"Detappe,2020"
+401,2,Inorganic,INM others,Gd NP,Spherical,Neutral,6.3,-6.9,Xenograft Orthotopic,Breast,0.1715,0.2058,5,20,"Detappe,2020"
+402,2,Inorganic,INM others,Anti-IgG/NP,Spherical,Neutral,6.3,-6.9,Xenograft Orthotopic,Breast,0.1715,0.2058,5,20,"Detappe,2020"
+403,2,Inorganic,INM others,CuS@CeO2,Rod,NA,150,NA,Xenograft Heterotopic,Liver,0.1,0.12,50,20,"Jiang,2019"
+404,2,Inorganic,Iron Oxide,IONPs-PSPps,Spherical,Negative,241.89,-21.9,Xenograft Heterotopic,Lung,0.0275,0.033,24,20,"Tsai,2020"
+405,2,Organic,Polymeric,iPUDN,Spherical,NA,148,NA,Xenograft Heterotopic,Breast,0.1,0.12,5.025,13,"Zhou,2019"
+406,2,Organic,Polymeric,E/P-NPs,Spherical,Negative,116.2,-36.4,Xenograft Orthotopic,Breast,0.4,0.48,10,20,"Li,2020"
+407,2,Organic,Polymeric,E/PC-NPs,Spherical,Negative,102.9,-41.1,Xenograft Orthotopic,Breast,0.4,0.48,10,20,"Li,2020"
+408,2,Organic,Polymeric,E/PF-NPs,Spherical,Negative,110.8,-47.5,Xenograft Orthotopic,Breast,0.4,0.48,10,20,"Li,2020"
+409,2,Organic,Polymeric,E/PCF-NPs,Spherical,Negative,106.7,-46.7,Xenograft Orthotopic,Breast,0.4,0.48,10,20,"Li,2020"
+410,2,Organic,Polymeric,SFP,Spherical,NA,150,NA,Xenograft Heterotopic,Liver,0.1,0.12,9,20,"Tang,2019"
+411,2,Inorganic,INM others,ATO,Spherical,Neutral,NA,6.36,Xenograft Heterotopic,Liver,0.5,0.6,40,40,"Wu,2020"
+412,2,Organic,Liposome,PL-Dox,Spherical,NA,100,NA,Xenograft Heterotopic,Liver,0.075,0.09,7.035,19,"Wang,2020"
+413,2,Organic,ONM others,IPO-NO,Spherical,NA,132,NA,Xenograft Heterotopic,Breast,0.1,0.12,20.02222222,20,"Xu,2019"
+414,2,Organic,Liposome,"DSPE-PEG(2000)-DAP,4",Spherical,Neutral,121,-4.3,Xenograft Orthotopic,Breast,0.1,0.12,10,20,"Stras,2020"
+415,2,Inorganic,Gold,Vdox@AuNP ,Spherical,Negative,400,-42.57,Allograft Heterotopic,Others,0.4,0.48,3,15,"Zhang,2019"
+416,2,Inorganic,Silica,NOTA-UPSN,Spherical,Neutral,13.64,0.77,Xenograft Heterotopic,Breast,0.1373125,0.164775,6.8,20,"Goel,2019"
+417,2,Inorganic,Silica,NOTA-UPSN,Spherical,Neutral,13.64,0.77,Xenograft Heterotopic,Breast,0.1373125,0.164775,6.8,20,"Goel,2019"
+418,2,Inorganic,INM others,SMID,Spherical,Negative,139.6,-16.49,Xenograft Heterotopic,Breast,0.2,0.24,3.015,25,"Yang,2019"
+419,2,Inorganic,INM others,DOX-RNP,Spherical,NA,146.2,NA,Xenograft Heterotopic,Cervix,0.06,0.072,10,20,"Wang,2019"
+420,2,Organic,Polymeric,DPP,Spherical,NA,144,NA,Xenograft Heterotopic,Cervix,0.1,0.12,12.39811282,20,"Wang,2019"
+421,2,Organic,Liposome,LipCUR,Spherical,Neutral,129.4,-7.92,Xenograft Heterotopic,Breast,0.1,0.12,15,20,"Karimi,2020"
+422,2,Organic,Liposome,PG-LipCUR,Spherical,Negative,114.8,-24.3,Xenograft Heterotopic,Breast,0.1,0.12,15,20,"Karimi,2020"
+423,2,Organic,Liposome,DSEG-PBA,Spherical,Neutral,158.3,-8.96,Xenograft Heterotopic,Liver,0.05,0.06,5.011904762,15,"Sun,2019"
+424,2,Organic,Liposome,core-DOX,Spherical,Negative,147.5,-12.54,Xenograft Heterotopic,Liver,0.05,0.06,5.011904762,15,"Sun,2019"
+425,2,Organic,Liposome,shell-DOX,Spherical,Negative,139.3,-13.92,Xenograft Heterotopic,Liver,0.05,0.06,5.011904762,15,"Sun,2019"
+426,2,Organic,Polymeric,NOTA-CNC-Cy5,Rod,Negative,NA,-20.8,Allograft Orthotopic,Breast,0.256,0.3072,1.25,20,"Sarparanta,2019"
+427,2,Organic,Polymeric,DFO-CNC-Cy5,Rod,Negative,NA,-14.7,Allograft Orthotopic,Breast,0.256,0.3072,1.25,20,"Sarparanta,2019"
+428,2,Organic,Liposome,Lip-F1(HSPC/DSPG/Chol),Spherical,Negative,120,-25,Allograft Heterotopic,Colon,0.0625,0.075,0.005,20,"Shamshiri,2021"
+429,2,Organic,Liposome,Lip-F2(HSPC/DSPG/Chol/mPEG2000â€“DSPE),Spherical,Negative,135,-18,Allograft Heterotopic,Colon,0.0625,0.075,0.005,20,"Shamshiri,2021"
+430,2,Inorganic,INM others,Ti3C2@Met@PEG,Plate,Negative,310,-10.96,Xenograft Heterotopic,Breast,0.1,0.12,20,22,"Bai,2020"
+431,2,Inorganic,INM others,Ti3C2@Met@CP,Plate,Negative,310,-20,Xenograft Heterotopic,Breast,0.1,0.12,20,22,"Bai,2020"
+432,2,Inorganic,Gold,MTPC/GNRs@PLGA-PEG,Rod,Neutral,143.2,-8.8,Allograft Heterotopic,Others,0.9,1.08,434.7826087,22.5,"Darwish,2020"
+433,2,Organic,Polymeric,PAHD-DTX,Spherical,Neutral,32.78,-1.74,Allograft Orthotopic,Breast,0.2109375,0.253125,4,20,"Liu,2019"
+434,2,Organic,Polymeric,PAHD-ASP,Spherical,Neutral,32.78,-1.74,Allograft Orthotopic,Breast,0.2109375,0.253125,16,20,"Liu,2019"
+435,2,Inorganic,INM others,Gd2O3/BSA@MoS2-HA,Spherical,Negative,203.5,-22.2,Xenograft Heterotopic,Breast,0.1,0.12,40,20,"Cheng,2019"
+436,2,Inorganic,INM others,Gd2O3/BSA@MoS2-HA,Spherical,Negative,203.5,-22.2,Xenograft Heterotopic,Breast,0.1,0.12,40,20,"Cheng,2019"
+437,2,Organic,Polymeric,PTX-BA-NP,Rod,Negative,282.54,-19.7,Xenograft Heterotopic,Breast,0.1,0.12,10,22.5,"Wang,2019"
+438,2,Inorganic,INM others,FAPCH,Spherical,Negative,250,-15.8,Xenograft Heterotopic,Cervix,0.1,0.12,5.230660233,20,"Yang,2020"
+439,2,Organic,Polymeric,Br NP1 (EGDE),Spherical,Neutral,280.1,-2.629,Xenograft Heterotopic,Liver,0.125,0.15,6.011406844,20,"Wang,2020"
+440,2,Organic,Polymeric,Br NP2 (OEDe),Spherical,Neutral,296.5,-1.078,Xenograft Heterotopic,Liver,0.125,0.15,6.012121212,20,"Wang,2020"
+441,2,Inorganic,INM others,MnPc@HA,Plate,Neutral,100,-8,Xenograft Heterotopic,Breast,0.1,0.12,8,20,"Zeng,2019"
+442,2,Inorganic,INM others,131I-doped Ag-PEGÂ ,Spherical,Negative,21,-25,Xenograft Heterotopic,Sarcoma,0.1,0.12,0.15,30,"Sakr,2018"
+443,2,Inorganic,INM others,MoS2-HA-DTPA-Gd/Gef + HA ,Plate,NA,110,NA,Xenograft Heterotopic,Lung,0.2,0.24,10,20,"Liu,2019"
+444,2,Inorganic,INM others,MoS2-HA-DTPA-Gd/Gef,Plate,NA,110,NA,Xenograft Heterotopic,Lung,0.2,0.24,10,20,"Liu,2019"
+445,2,Inorganic,INM others,PDA-WS2@MnO2 (Mn),Spherical,Negative,235.4,-20.9,Xenograft Heterotopic,Breast,0.125,0.15,30,20,"Wang,2019"
+446,2,Inorganic,INM others,PDA-WS2@MnO2 (W),Spherical,Negative,235.4,-20.9,Xenograft Heterotopic,Breast,0.125,0.15,30,20,"Wang,2019"
+447,2,Organic,Polymeric,111In-DOTA-CNC (ald.),Rod,Negative,NA,-41.93,Allograft Orthotopic,Breast,0.1,0.12,2.777777778,18,"Imlimthan,2019"
+448,2,Organic,Polymeric,111In-DOTA-CNC (OH),Rod,Negative,NA,-29.6,Allograft Orthotopic,Breast,0.1,0.12,2.777777778,18,"Imlimthan,2019"
+449,2,Organic,Polymeric,RhoBâ€“PNP,Spherical,Neutral,103.9,-3,Xenograft Heterotopic,Breast,0.06,0.072,18,20,"Zhu,2019"
+450,2,Hybrid,Hybrid,AG/PEI-Fe3O4,Spherical,Negative,216.2,-18.7,Xenograft Heterotopic,Breast,0.108,0.1296,235.0877,20,"Hao,2019"
+451,2,Organic,Liposome,WS-encapsulated ODN ,Spherical,Neutral,122,-1,Xenograft Heterotopic,Pancreas,0.08,0.096,3,20,"Mukai,2019"
+452,2,Organic,Polymeric,FA-HCPT-Fe3O4- PFP-ND,Spherical,Negative,30,-25.8,Xenograft Heterotopic,Ovary,0.5,0.75,4.022143382,20,"Liu,2018"
+453,2,Inorganic,INM others,H-CuS@PCM/DOX/Ce6,Spherical,Negative,225.2,-18.57,Xenograft Heterotopic,Breast,0.15,0.18,4,16.5,"Li,2019"
+454,2,Organic,Polymeric,3400T(PEG3400-PCL5500/PCL3500),Spherical,Neutral,104.84505,-1.664516,Xenograft Heterotopic,Breast,0.3,0.36,18,20,"Wang,2018"
+455,2,Organic,Polymeric,4000T (PEG4000-PCL5000/PCL3500),Spherical,Neutral,105.39768,-1.867742,Xenograft Heterotopic,Breast,0.3,0.36,18,20,"Wang,2018"
+456,2,Organic,Polymeric,5000T/F (PEG5000-PCL4700/PCL3500),Spherical,Neutral,104.84505,-1.664516,Xenograft Heterotopic,Breast,0.3,0.36,18,20,"Wang,2018"
+457,2,Organic,Polymeric,8000T/F(PEG8000-PCL4500/PCL3500),Spherical,Neutral,90.97124,-2.008065,Xenograft Heterotopic,Breast,0.3,0.36,18,20,"Wang,2018"
+458,2,Organic,Polymeric,4000F(PEG4000-PCL7700/PCL3500),Spherical,Neutral,98.43526,-1.954839,Xenograft Heterotopic,Breast,0.3,0.36,18,20,"Wang,2018"
+459,2,Organic,Polymeric,3400F (PEG3400-PCL8300/PCL3500),Spherical,Neutral,91.45074,-1.916129,Xenograft Heterotopic,Breast,0.3,0.36,18,20,"Wang,2018"
+460,2,Organic,Liposome,DiR-DADGC-L,Spherical,Negative,136.2,-24.2,Xenograft Heterotopic,Sarcoma,0.25,0.3,1,20,"Liu,2021"
+461,2,Organic,Liposome,DiR-DADGC-L,Spherical,Negative,136.2,-24.2,Xenograft Heterotopic,Sarcoma,0.25,0.3,0.2,20,"Liu,2021"
+462,2,Organic,Liposome,DiR-DADGC-L,Spherical,Negative,136.2,-24.2,Xenograft Heterotopic,Sarcoma,0.25,0.3,0.02,20,"Liu,2021"
+463,2,Organic,ONM others,CFZ-alb NC,Rod,Negative,270.8,-13.7,Xenograft Orthotopic,Breast,0.25,0.3,3,20,"Park, 2019"
+464,2,Inorganic,INM others,64Cu@MNPs,Spherical,Neutral,63.6,-2.2,Xenograft Orthotopic,Glioma,0.1,0.12,0.660723077,20,"Yu,2018"
+465,2,Inorganic,INM others,MNPs,Spherical,Neutral,63.6,-2.2,Xenograft Orthotopic,Glioma,0.1,0.12,6.607230769,20,"Yu,2018"
+466,2,Organic,ONM others,IR-AFN@PTX-FA,Spherical,Negative,35,-30.9,Xenograft Heterotopic,Breast,0.1,0.12,5.025,20,"He,2020"
+467,2,Organic,Polymeric,Rg3-NP,Spherical,NA,90,NA,Xenograft Heterotopic,Colon,0.2,0.24,40.06666667,20,"Qiu,2019"
+468,2,Organic,Polymeric,QA-M,Spherical,Neutral,20,-0.3,Allograft Orthotopic,Colon,0.1,0.12,3.003314917,20,"Zhang,2019"
+469,2,Inorganic,INM others,MNP,Spherical,Neutral,109,3.45,Xenograft Heterotopic,Ovary,0.1,0.12,1.004187605,20,"Yu,2019"
+470,2,Hybrid,Hybrid,siRNA-Loaded Organicâ€“Inorganic  PDA-siRNA-ZIF-8 (PSZ),Spherical,Positive,176.8,20.5,Xenograft Heterotopic,Cervix,0.1,0.12,1.904761905,21,Feng et al. 2020
+471,2,Organic,Polymeric,pHLIP-SS-GFLG-MSPLNPs@DOX,Spherical,Negative,178,-15.7,Xenograft Heterotopic,Liver,0.1,0.12,3.015,20,Zhang et al. 2020
+472,2,Organic,Polymeric,MSPLNPs@DOX,Spherical,Negative,141,-17.6,Xenograft Heterotopic,Liver,0.1,0.12,3.015,20,Zhang et al. 2020
+473,2,Inorganic,INM others,Cu-NPs-dopa-PEG-DOTA/RGD,Spherical,NA,26.4,NA,Xenograft Heterotopic,Glioma,0.1,0.12,2.222222222,20,Shi et al. 2018
+474,2,Inorganic,INM others,Cu-NPs-dopa-PEG-DOTA,Spherical,NA,10,NA,Xenograft Heterotopic,Glioma,0.1,0.12,2.222222222,20,Shi et al. 2018
+475,2,Organic,ONM others,NGO-SS-HA,Plate,Negative,100,-45.3,Xenograft Heterotopic,Lung,0.2,0.24,20,20,Liu et al. 2018
+476,2,Inorganic,Silica,89Zr-DFO-scFv-PEG-Cy5-Câ€™ dots,Spherical,NA,7.3,NA,Xenograft Heterotopic,Breast,0.032,0.0384,10,20,Chen et al. 2018
+477,2,Inorganic,Silica,Zr-DFO-Ctr/scFv-PEG-Cy5-C ,Spherical,NA,7.2,NA,Xenograft Heterotopic,Breast,0.032,0.0384,10,20,Chen et al. 2018
+478,2,Inorganic,Silica,89Zr-DFO-scFv-PEG-Cy5-Câ€™ dots,Spherical,NA,7.3,NA,Xenograft Heterotopic,Breast,0.032,0.0384,10,20,Chen et al. 2018
+479,2,Inorganic,Silica,89Zr-DFO-scFv-PEG-Cy5-Câ€™ dots,Spherical,NA,6.4,NA,Xenograft Orthotopic,Breast,0.032,0.0384,10,20,Chen et al. 2018
+480,2,Inorganic,Silica,Zr-DFO-Ctr/scFv-PEG-Cy5-C ,Spherical,NA,6.4,NA,Xenograft Orthotopic,Breast,0.032,0.0384,10,20,Chen et al. 2018
+481,2,Organic,Polymeric,DOX co?loaded active targeted micelles (ATD?NPs),Spherical,Negative,NA,-27.2,Xenograft Heterotopic,Prostate,0.1,0.12,5.025380711,20,Wang et al. 2019
+482,2,Organic,Polymeric,DOX co?loaded targeted micelles (TD-NPs),Spherical,Negative,NA,-13.5,Xenograft Heterotopic,Prostate,0.1,0.12,5.024038462,20,Wang et al. 2019
+483,2,Inorganic,INM others,PEG-PtCNPs,Spherical,Positive,28.7,48.1,Xenograft Heterotopic,Cervix,0.1,0.12,3.206,20,Bao et al. 2018
+484,2,Inorganic,INM others,Bi-MSX-PEG/DOX ,Others,Negative,191.448,-21.24,Xenograft Heterotopic,Cervix,0.1715,0.2058,5,20,Ren et al. 2019
+485,2,Inorganic,Silica,99mTc-Labeled SiNPs-TZ (1:2 Hc-TZ),Spherical,NA,72.9,NA,Xenograft Heterotopic,Breast,0.1,0.12,10,20,Rainone et al. 2021
+486,2,Inorganic,Silica,SiNPs-TZ (1:8 Hc-TZ),Spherical,NA,76.97,NA,Xenograft Heterotopic,Breast,0.1,0.12,10,20,Rainone et al. 2021
+487,2,Hybrid,Hybrid, 64Cu-labeled HMOP,Spherical,NA,NA,NA,Xenograft Heterotopic,Glioma,0.1715,0.2058,150,20,Fan et al. 2019
+488,2,Inorganic,INM others,CPT@IrSx-PEG-FA,Others,NA,230,NA,Xenograft Heterotopic,Cervix,0.1,0.12,10,20,Zhang et al. 2018
+489,2,Inorganic,Silica, SP-FS-USMSN cluster,Spherical,Neutral,128.1,-7.43,Xenograft Heterotopic,Liver,0.09,0.108,20,18,He et al. 2020
+490,2,Organic,Hydrogel,PPY/Co-dPG,Spherical,Neutral,249,0,Xenograft Heterotopic,Lung,0.13,0.156,100,20,Theune et al. 2019
+491,2,Organic,Polymeric,PNOC10-PDA/DOX,Spherical,Negative,165,-35.8,Xenograft Heterotopic,Breast,0.3,0.36,20,20,Ding et al. 2019
+492,2,Organic,Polymeric,PNOC20-PDA/DOX,Spherical,Negative,162,-37.2,Xenograft Heterotopic,Breast,0.3,0.36,20,20,Ding et al. 2019
+493,2,Organic,Polymeric,PM@THL-PTX,Spherical,Negative,NA,-12.03,Xenograft Heterotopic,Breast,0.1,0.12,4.004112688,20,Lang et al. 2019
+494,2,Organic,Polymeric,PM-PTX,Spherical,Negative,NA,-17.81,Xenograft Heterotopic,Breast,0.1,0.12,4.02,20,Lang et al. 2019
+495,2,Organic,Liposome,EcN-PMD/T,Spherical,Negative,NA,-12.5,Xenograft Heterotopic,Breast,0.1,0.12,1.005,21,Xie et al. 2018
+496,2,Organic,Hydrogel,DOX/ALG NG,Spherical,Negative,197,-36,Allograft Heterotopic,Liver,0.125,0.15,4,20,Wang et al. 2018
+497,2,Organic,Hydrogel,DOX/Co@ALG NG,Spherical,Negative,276,-32,Allograft Heterotopic,Liver,0.125,0.15,4,20,Wang et al. 2018
+498,2,Organic,Polymeric,DANPVP&DOX,Spherical,Negative,123.1,-10.4,Xenograft Heterotopic,Breast,0.1,0.12,10.05,20,Ma et al. 2020
+499,2,Organic,Polymeric,SANPVP&DOX,Spherical,Negative,128.8,-22.7,Xenograft Heterotopic,Breast,0.1,0.12,10.05,20,Ma et al. 2020
+500,2,Organic,Liposome,RGD-MLs,Spherical,Negative,57.8,-65.12,Xenograft Heterotopic,Ovary,0.1,0.12,20,20,Garcia et al. 2019
+501,2,Hybrid,Hybrid,17AAG@HMONs-BSA-IrO2-PEG (AHBIP),Spherical,Neutral,105.185,-8.421,Xenograft Heterotopic,Breast,0.07,0.084,10,20,Wu et al. 2020
+502,2,Inorganic,INM others,Ru nanoparticle,Spherical,NA,102,NA,Xenograft Heterotopic,Lung,0.0675,0.081,3,20,Karges et al. 2020
+503,2,Organic,Polymeric,PPM-ss-LA-NPs,Spherical,Negative,144.13,-33.82,Allograft Heterotopic,Liver,0.5,0.6,7.362549801,19,Zhang et al. 2020
+504,2,Organic,Polymeric,PPM-ss-LA/DSPE2k-NPs,Spherical,Negative,159.44,-37.97,Allograft Heterotopic,Liver,0.5,0.6,29.57370518,19,Zhang et al. 2020
+505,2,Organic,ONM others,CC8-ELV-Imp,Spherical,Negative,169.9,-17.3,Xenograft Heterotopic,Lung,0.075,0.09,10.01458151,17,Lin et al. 2019
+506,2,Inorganic,INM others,O2â€“Cu/ZIF-8@Ce6/ZIF-8@F127 (OCZCF),Spherical,Neutral,97.8,0.137,Xenograft Heterotopic,Breast,0.1,0.12,4.02,20,Xie et al. 2019
+507,2,Inorganic,INM others,Pd(5)-CpG(PS),Plate,Negative,22,-10.6,Allograft Orthotopic,Others,0.1,0.12,10,20,Ming et al. 2020
+508,2,Organic,Polymeric, LIL-PTX,Spherical,Neutral,187,7.9,Xenograft Orthotopic,Breast,0.1,0.12,10.01109878,20,Cherukula et al. 2019
+509,2,Inorganic,INM others,DOX@HPMO,Others,NA,41,NA,Allograft Heterotopic,Liver,0.0625,0.075,4.739726027,20,Wei et al. 2019
+510,2,Inorganic,INM others,VK3-CPT@Ru-CD,Spherical,Neutral,130,9.5,Xenograft Heterotopic,Breast,0.2,0.24,10,20,Yang et al. 2018
+511,2,Inorganic,Gold,[89Zr]Zr-5B1-AuNP,Spherical,Negative,34.86,-21.3,Xenograft Heterotopic,Pancreas,0.1,0.12,4,20,Sobol et al. 2021
+512,2,Inorganic,Gold,[89Zr]Zr-5B1-AuNP,Spherical,Negative,34.86,-21.3,Xenograft Heterotopic,Pancreas,0.1,0.12,4,20,Sobol et al. 2021
+513,2,Inorganic,Gold,[89Zr]Zr-5B1-AuNP,Spherical,Negative,34.86,-21.3,Xenograft Orthotopic,Pancreas,0.1,0.12,4,20,Sobol et al. 2021
+514,2,Organic,ONM others,RVT-HSA NPs,Others,Negative,118.3,-26.71,Xenograft Heterotopic,Ovary,0.1,0.12,10.01253133,22,Long et al. 2020
+515,2,Organic,ONM others,RGD-RVT-HSA NPs,Others,Negative,128.2,-21.42,Xenograft Heterotopic,Ovary,0.1,0.12,10.01196172,22,Long et al. 2020
+516,2,Inorganic,Gold,99mTc-Mex-AuNPs,Spherical,Negative,20.3,-17.6,Xenograft Heterotopic,Breast,0.1,0.12,0.12,20,El-Safoury et al. 2021
+517,2,Organic,ONM others,D-COP NPs,Spherical,NA,87,NA,Allograft Heterotopic,Liver,0.5,0.6,4.004232804,19,Qian et al. 2020
+518,2,Organic,Liposome,Lipo-IRI,Spherical,Positive,105,-37.864,Xenograft Heterotopic,Colon,0.5,0.6,30.03092784,20,Huang et al. 2019
+519,2,Organic,Polymeric,E-P NPs,Spherical,Negative,NA,-23.9,Allograft Heterotopic,Liver,0.05,0.06,8.010062893,19,Xu et al. 2021
+520,2,Organic,Polymeric,E-HEAP NCs,Spherical,Negative,NA,-14.1,Allograft Heterotopic,Liver,0.05,0.06,8.010152284,19,Xu et al. 2021
+521,2,Organic,Dendrimer,FDPC-NPs,Spherical,Neutral,80.85,-9.03,Allograft Heterotopic,Liver,1,1.2,7.234732272,20,Xu et al. 2020
+522,2,Organic,Polymeric,PKP750 NP,Spherical,Neutral,13,-0.7,Xenograft Heterotopic,Ovary,0.3,0.36,40.2,20,Mu et al. 2020
+523,2,Organic,Polymeric,PKP1000 NP,Spherical,Neutral,22.1,-0.8,Xenograft Heterotopic,Ovary,0.3,0.36,40.2,20,Mu et al. 2020
+524,2,Organic,Polymeric,PKP2000 NP,Spherical,Neutral,48.6,-0.11,Xenograft Heterotopic,Ovary,0.3,0.36,40.2,20,Mu et al. 2020
+525,2,Inorganic,INM others,CSPM@CpG,Spherical,Negative,69.744,-12.9,Xenograft Orthotopic,Breast,0.08,0.096,3.375,20,Zhou et al. 2020
+526,2,Organic,ONM others,PTX NPs@NanoRBC-PEG/FA,Spherical,Negative,159.8,-10.98,Xenograft Heterotopic,Breast,0.1,0.12,3.504599212,20,Zhong et al. 2020
+527,2,Organic,ONM others,PTX/TQR NPs@NanoRBC-PEG/FA,Spherical,Negative,161.8,-10.76,Xenograft Heterotopic,Breast,0.1,0.12,3.504599212,20,Zhong et al. 2020
+528,2,Hybrid,Hybrid,erythrocyte membrane-camouflaged  magnetofluorescent nanocarrier (MMFn),Spherical,Negative,100,-13.902,Allograft Heterotopic,Skin,0.575,0.69,0.303488,43,Sousa-Junior et al. 2020
+529,2,Organic,Polymeric,QA-M,Spherical,Neutral,20,-0.3,Allograft Orthotopic,Colon,0.1,0.12,9.009513742,20,"Zhang,2019"
+530,2,Organic,ONM others,ELV-Imp,Spherical,Negative,169.1,-17.2,Xenograft Heterotopic,Lung,0.075,0.09,10.01458151,17,Lin et al. 2019
+531,2,Inorganic,Passive,Gold,Negative,Spherical,30.4,-15.6,Xenograft Heterotopic,Breast,0.03,0.065,10,25,
+532,2,Inorganic,Passive,Gold,Negative,Spherical,30.4,-15.6,Allograft Heterotopic,Sarcoma,0.06,0.172,10,21,
